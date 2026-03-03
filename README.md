@@ -13,7 +13,24 @@ https://hits.seeyoufarm.com/<br /><br />
 
 
 <div align="center">
-  <img src="https://github.com/LeeHwon0217/LeeHwon0217/blob/output/github-contribution-grid-snake.svg">
+
+### 🐍 My Contributions Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LeeHwon0217/LeeHwon0217/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LeeHwon0217/LeeHwon0217/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/LeeHwon0217/LeeHwon0217/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </div>
 
 
