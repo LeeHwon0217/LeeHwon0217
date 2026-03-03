@@ -21,8 +21,8 @@
 
 ```python
 class LeeHwon:
-    name       = "이환"
-    email      = "hubo0217@naver.com"
+    name       = "이훤"
+    email      = "wob0217@gmail.com"
     phone      = "010-7734-4653"
     focus      = ["AI", "Machine Learning", "Python"]
     motto      = "Code with purpose, build with passion."
@@ -85,6 +85,6 @@ class LeeHwon:
 
 <div align="center">
 
-`📧 hubo0217@naver.com` &nbsp;·&nbsp; `📞 010-7734-4653`
+`📧 wob0217@gmail.com` &nbsp;·&nbsp; `📞 010-7734-4653`
 
 </div>
