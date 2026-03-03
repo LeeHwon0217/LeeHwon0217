@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="../assets/banner.gif" width="800" alt="pixel art coding"/>
+  <img src="./assets/banner.gif" width="800" alt="pixel art coding"/>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2a45,100:58A6FF&height=200&section=header&text=LeeHwon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
