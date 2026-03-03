@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+██╗     ███████╗███████╗██╗  ██╗██╗    ██╗ ██████╗ ███╗   ██╗
+██║     ██╔════╝██╔════╝██║  ██║██║    ██║██╔═══██╗████╗  ██║
+██║     █████╗  █████╗  ███████║██║ █╗ ██║██║   ██║██╔██╗ ██║
+██║     ██╔══╝  ██╔══╝  ██╔══██║██║███╗██║██║   ██║██║╚██╗██║
+███████╗███████╗███████╗██║  ██║╚███╔███╔╝╚██████╔╝██║ ╚████║
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝
+```
+
 ### `AI Engineer` · `Python Developer`
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeeHwon0217&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
@@ -12,7 +21,7 @@
 
 ```python
 class LeeHwon:
-    name       = "이훤"
+    name       = "이환"
     email      = "hubo0217@naver.com"
     phone      = "010-7734-4653"
     focus      = ["AI", "Machine Learning", "Python"]
