@@ -15,7 +15,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=LeeHwon0217&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
 
 
----
 
 <div align="center">
   <img src="./assets/banner.gif" width="800" alt="pixel art coding"/>
