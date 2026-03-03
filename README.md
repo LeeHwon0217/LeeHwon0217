@@ -1,17 +1,8 @@
 <div align="center">
 
-```
-██╗     ███████╗███████╗    ██╗  ██╗██╗    ██╗ ██████╗ ███╗   ██╗
-██║     ██╔════╝██╔════╝    ██║  ██║██║    ██║██╔═══██╗████╗  ██║
-██║     █████╗  █████╗      ███████║██║ █╗ ██║██║   ██║██╔██╗ ██║
-██║     ██╔══╝  ██╔══╝      ██╔══██║██║███╗██║██║   ██║██║╚██╗██║
-███████╗███████╗███████╗    ██║  ██║╚███╔███╔╝╚██████╔╝██║ ╚████║
-╚══════╝╚══════╝╚══════╝    ╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝
-```
-
 ### `AI Engineer` · `Python Developer`
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeHwon0217&count_bg=%230D1117&title_bg=%23161B22&icon=github.svg&icon_color=%2358A6FF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=LeeHwon0217&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
@@ -57,9 +48,13 @@ class LeeHwon:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeHwon0217&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHwon0217&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeeHwon0217&theme=github-dark-blue&hide_border=true&date_format=Y.n.j&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![LeeHwon0217's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeeHwon0217&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
