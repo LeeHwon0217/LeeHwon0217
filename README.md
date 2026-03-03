@@ -4,9 +4,7 @@
   <img src="./assets/banner.gif" width="800" alt="pixel art coding"/>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2a45,100:58A6FF&height=200&section=header&text=LeeHwon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Python%20Developer&descAlignY=58&descSize=18&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 ```
 ██╗     ███████╗███████╗██╗  ██╗██╗    ██╗ ██████╗ ███╗   ██╗
@@ -16,6 +14,7 @@
 ███████╗███████╗███████╗██║  ██║╚███╔███╔╝╚██████╔╝██║ ╚████║
 ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 ### `AI Engineer` · `Python Developer`
 
@@ -90,8 +89,6 @@ class LeeHwon:
 </div>
 
 ---
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d2a45&height=100&section=footer&animation=fadeIn)
 
 <div align="center">
 
