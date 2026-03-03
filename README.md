@@ -12,7 +12,7 @@
 
 ```python
 class LeeHwon:
-    name       = "이환"
+    name       = "이훤"
     email      = "hubo0217@naver.com"
     phone      = "010-7734-4653"
     focus      = ["AI", "Machine Learning", "Python"]
