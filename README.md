@@ -17,7 +17,12 @@
 
 
 <div align="center">
-  <img src="./assets/banner.gif" width=80% alt="pixel art coding"/>
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=LeeHwon0217&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF"
+    alt="LeeHwon0217 GitHub Activity Graph"
+  />
+
 </div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Always+learning%2C+always+building.)](https://git.io/typing-svg)
