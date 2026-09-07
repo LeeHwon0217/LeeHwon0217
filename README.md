@@ -74,11 +74,7 @@ class LeeHwon:
 
 </div>
 
-<div align="center">
 
-[![LeeHwon0217's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeeHwon0217&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
